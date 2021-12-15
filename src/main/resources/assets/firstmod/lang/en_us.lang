@@ -1,0 +1,8 @@
+//items
+item.obsidian_ingot.name=OBSIDIAN_INGOT
+
+//blocks
+tile.testblock.name=TEST BLOCK
+
+//tab
+itemGroup.mytab=giaotab
